@@ -1,4 +1,4 @@
 # Project : STUDENT INTERVENTION SYSTEM 
 
-## What this Project is about ?
+## What is this Project about ?
 
