@@ -1,1 +1,3 @@
-EEG project 
+# PROJECT: DETERMINING CONFUSION LEVELS AFTER AN EEG TEST
+
+## Project Summary: 
