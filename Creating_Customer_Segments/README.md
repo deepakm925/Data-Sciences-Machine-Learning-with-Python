@@ -1,0 +1,3 @@
+# PROJECT : CREATING CUSTOMER SEGMENTS 
+
+## Project Summary: 
