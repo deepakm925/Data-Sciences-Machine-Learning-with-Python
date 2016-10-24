@@ -14,3 +14,7 @@ In this project I  will apply unsupervised learning techniques on product spendi
 - numpy 
 - matplotlib
 - pandas 
+
+#### Software Requirements:
+- Anaconda (Ipython/ Jupyter Notebok) 
+- Python 2.7 
