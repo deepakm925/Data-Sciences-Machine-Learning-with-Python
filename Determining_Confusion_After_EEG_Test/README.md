@@ -17,6 +17,6 @@ The techniques used to derive metrics were: F1 Score and Cross Validation Score
 - matplotlib
 - pandas
 
-#### Software:
+#### Software Requirements:
 - Anaconda(Ipython/ Jupyter Notebook)
 - Python 2.7 
