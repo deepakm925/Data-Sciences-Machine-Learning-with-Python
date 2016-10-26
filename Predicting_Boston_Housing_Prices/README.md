@@ -10,3 +10,6 @@ In this project, I will apply basic machine learning concepts on data collected 
 #### Libararies and Modules 
 - Numpy 
 - Sci-kit Learn
+
+#### Software Requirements 
+- Anaconda (Ipython/ Jupyter Notebook)
