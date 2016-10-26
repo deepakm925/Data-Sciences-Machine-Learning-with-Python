@@ -14,4 +14,4 @@ A local school district has a goal to reach a 95% graduation rate by the end of 
 - Sci-kit learn 
 
 #### Software:
-- Anaconda
+- Anaconda(Ipython/Jupyter Notebook)
