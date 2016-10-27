@@ -1,7 +1,7 @@
 # Data-Sciences & Machine-Learning:
 ## Projects:
-- Predicting Boston Housing Prices (Complete)
-- Student Inervention System 
+- Predicting Boston Housing Prices (Completed)
+- Student Inervention System (Completed)
 - Creating Customer Segments
 - Train A Smart Cab to Drive 
 - Determining Confusion After an EEG Test 
