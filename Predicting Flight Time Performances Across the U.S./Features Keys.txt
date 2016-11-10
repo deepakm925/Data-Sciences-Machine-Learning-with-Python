@@ -1,0 +1,173 @@
+FEATURES KEY 
+(This is a key to give a description for the features that have been chosen to work with this project.)
+
+
+
+UniqueCarrier - Unique Carrier Code. When the same code has been used by multiple carriers, a numeric suffix is 
+                used for earlier users, for example, PA, PA(1), PA(2). 
+
+
+AirlineID - An identification number assigned by US DOT to identify a unique airline (carrier).
+
+
+Carrier - Code assigned by IATA and commonly used to identify a carrier. As the same code may have been assigned to 
+          different carriers over time, the code is not always unique. 
+          
+
+FlightNum - Flight Number 
+
+
+OriginAirportID - Origin Airport, Airport ID. An identification number assigned by US DOT 
+                  to identify a unique airport. 
+
+
+OriginAirportSeqID - Origin Airport, Airport Sequence ID. An identification number assigned by US DOT to identify 
+                     a unique airport at a given point of time.
+                    
+
+OriginCityMarketID - Origin Airport, City Market ID. City Market ID is an identification number 
+                     assigned by US DOT to identify a city market. 
+                     
+
+
+Origin - Origin Airport
+
+
+OriginCityName - Origin Airport, City Name 
+
+
+OriginState - Origin Airport, State Code 
+
+
+OriginStateName - Origin Airport, Origin State Name 
+
+
+OriginWac - Origin Airport, World Area Code 
+
+
+DestAirportID - Destination Airport, Airport ID. An identification number assigned by US DOT to 
+                identify a unique airport.
+                
+
+DestAirportSeqID - Destination Airport, Airport Sequence ID. An identification number assigned by US DOT to identify 
+                   a unique airport at a given point of time.
+
+
+DestCityMarketID - Destination Airport, City Market ID. City Market ID is an identification number
+                   assigned by US DOT to identify a city market.
+                   
+
+Dest - Destination Airport
+
+
+DestCityName - Destination Airport, City Name
+
+
+DestState - Destination Airport, State Code
+ 
+ 
+DestStateName - Destination Airport, State Name
+
+
+DestWac - Destination Airport, World Area Code
+
+
+CRSDepTime - CRS Departure Time (local time: hhmm)
+
+
+DepTime - Actual Departure Time (local time: hhmm)
+
+
+DepDelay - Difference in minutes between scheduled and actual departure time. Early departures 
+           show negative numbers. 
+
+
+DepDelayMinutes - Difference in minutes between scheduled and actual departure time. 
+                  Early departures set to 0.
+
+
+DepDel15 - Departure Delay Indicator, 15 Minutes or More (1=Yes)
+
+
+DepartureDelayGroups - Departure Delay intervals, every (15 minutes from <-15 to >180)
+
+
+DepTimeBlk - CRS Departure Time Block, Hourly Intervals
+
+
+TaxiOut - Taxi Out Time, in Minutes 
+
+
+WheelsOff - Wheels Off Time (local time: hhmm)
+
+
+WheelsOn - Wheels On Time (local time: hhmm)
+
+
+TaxiIn - Taxi In Time, in Minutes
+
+
+CRSArrTime - CRS Arrival Time (local time: hhmm)
+
+
+ArrTime - Actual Arrival Time (local time: hhmm)
+
+
+ArrDelay - Difference in minutes between scheduled and actual arrival time. Early arrivals show negative numbers. 
+
+
+ArrDelayMinutes - Difference in minutes between scheduled and actual arrival time. Early arrivals set to 0.
+
+
+ArrDel15 - Arrival Delay Indicator, 15 Minutes or More (1=Yes)
+
+
+ArrivalDelayGroups - Arrival Delay intervals, every (15-minutes from <-15 to >180)
+
+
+ArrTimeBlk - CRS Arrival Time Block, Hourly Intervals
+
+
+Cancelled - Cancelled Flight Indicator (1=Yes)
+
+
+CancellationCode - Specifies The Reason For Cancellation (A, B C D)
+                   A - Carrier
+                   B - Weather
+                   C - National Air System
+                   D - Security
+
+
+CRSElapsedTime - CRS Elapsed Time of Flight, in Minutes
+
+
+ActualElapsedTime - Elapsed Time of Flight, in Minutes 
+
+
+AirTime - Flight Time, in Minutes
+
+
+Distance - Distance between airports (miles)
+
+
+DistanceGroup - Distance Intervals, every 250 Miles, for Flight Segment
+
+
+CarrierDelay - Carrier Delay, in Minutes 
+
+
+WeatherDelay - Weather Delay, in Minutes 
+
+
+NASDelay - National Air System Delay, in Minutes 
+
+
+SecurityDelay - Security Delay, in Minutes 
+
+
+LateAircraftDelay - Late Aircraft Delay, in Minutes
+
+
+
+
+
