@@ -712,15 +712,6 @@
    ]
   },
   {
-   "cell_type": "markdown",
-   "metadata": {
-    "collapsed": true
-   },
-   "source": [
-    "### A Key for the Features labels"
-   ]
-  },
-  {
    "cell_type": "code",
    "execution_count": null,
    "metadata": {
