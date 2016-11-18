@@ -92,9 +92,6 @@ DepDel15 - Departure Delay Indicator, 15 Minutes or More (1=Yes)
 DepartureDelayGroups - Departure Delay intervals, every (15 minutes from <-15 to >180)
 
 
-DepTimeBlk - CRS Departure Time Block, Hourly Intervals
-
-
 TaxiOut - Taxi Out Time, in Minutes 
 
 
