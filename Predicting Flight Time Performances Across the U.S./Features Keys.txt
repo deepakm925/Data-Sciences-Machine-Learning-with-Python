@@ -9,11 +9,7 @@ UniqueCarrier - Unique Carrier Code. When the same code has been used by multipl
 
 AirlineID - An identification number assigned by US DOT to identify a unique airline (carrier).
 
-
-Carrier - Code assigned by IATA and commonly used to identify a carrier. As the same code may have been assigned to 
-          different carriers over time, the code is not always unique. 
           
-
 FlightNum - Flight Number 
 
 
