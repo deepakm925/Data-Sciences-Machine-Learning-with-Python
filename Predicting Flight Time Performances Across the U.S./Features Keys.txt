@@ -124,13 +124,6 @@ ArrTimeBlk - CRS Arrival Time Block, Hourly Intervals
 Cancelled - Cancelled Flight Indicator (1=Yes)
 
 
-CancellationCode - Specifies The Reason For Cancellation (A, B C D)
-                   A - Carrier
-                   B - Weather
-                   C - National Air System
-                   D - Security
-
-
 CRSElapsedTime - CRS Elapsed Time of Flight, in Minutes
 
 
