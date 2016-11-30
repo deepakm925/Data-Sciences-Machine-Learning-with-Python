@@ -148,7 +148,7 @@ WeatherDelay - Weather Delay, in Minutes
 NASDelay - National Air System Delay, in Minutes 
 
 
-SecurityDelay - Security Delay, in Minutes 
+
 
 
 
