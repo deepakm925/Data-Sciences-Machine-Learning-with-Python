@@ -142,7 +142,6 @@ DistanceGroup - Distance Intervals, every 250 Miles, for Flight Segment
 CarrierDelay - Carrier Delay, in Minutes 
 
 
-WeatherDelay - Weather Delay, in Minutes 
 
 
 
