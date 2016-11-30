@@ -145,7 +145,6 @@ CarrierDelay - Carrier Delay, in Minutes
 WeatherDelay - Weather Delay, in Minutes 
 
 
-NASDelay - National Air System Delay, in Minutes 
 
 
 
