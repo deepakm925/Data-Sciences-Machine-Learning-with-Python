@@ -2,7 +2,6 @@
 
 ## Project Details: 
 
-
 #### The Dataset:
 This Project’s dataset was taken from Kaggle’s website.The dataset can be found [here](https://www.kaggle.com/wanghaohan/eeg-brain-wave-for-confusion). Sometimes dataset versions may be updated, however my project focuses on version 1 of the dataset which can be found within the folder of this project. 
 
