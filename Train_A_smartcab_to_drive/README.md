@@ -6,5 +6,6 @@ In this project I will apply Reinforcement learning techniques for a self-drivin
 
 #### Libraries and Other Modules Used 
 - Pygame Can be downloaded [here]( http://www.pygame.org/download.shtml)
+
 #### Software Requirements:
 - Python 2.7 (IDE)
