@@ -1,6 +1,6 @@
 # Data-Sciences & Machine-Learning:
 ## Projects:
-- Predicting Boston Housing Prices (Completed)
+- Predicting Boston Housing Prices
 - Student Inervention System (Completed)
 - Creating Customer Segments (Completed)
 - Train A Smart Cab to Drive (Completed)
