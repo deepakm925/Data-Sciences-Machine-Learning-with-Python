@@ -7,3 +7,4 @@ We will retrieve and extract the data, assess the data programmatically and visu
 
 Throughout the process, I will:
 Explain the decisions regarding methods used for gathering, assessing, cleaning, storing, and answering the research question. Finally, plot some visualizations to display the data. 
+
