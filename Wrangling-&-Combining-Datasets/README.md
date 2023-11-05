@@ -8,3 +8,6 @@ We will retrieve and extract the data, assess the data programmatically and visu
 Throughout the process, I will:
 Explain the decisions regarding methods used for gathering, assessing, cleaning, storing, and answering the research question. Finally, plot some visualizations to display the data. 
 
+### What to Expect...
+- Loading two different datasets using two different methods
+- Analyzing the datasets for quality and tidiness issues (such as missing data, column structure, column data types etc)
