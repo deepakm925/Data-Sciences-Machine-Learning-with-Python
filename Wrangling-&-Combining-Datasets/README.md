@@ -11,3 +11,4 @@ Explain the decisions regarding methods used for gathering, assessing, cleaning,
 ### What to Expect...
 - Loading two different datasets using two different methods
 - Analyzing the datasets for quality and tidiness issues (such as missing data, column structure, column data types etc)
+= Dealing with the quality and tidiness issues
